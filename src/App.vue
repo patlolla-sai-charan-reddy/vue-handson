@@ -113,11 +113,8 @@ export default {
           ]
         ],
         rowHeaders: false,
-        // fixedColumnsLeft: 27,
         colWidths: 100,
         height: 200,
-        overflow: "scroll",
-        backgroundColor: "red",
         className: "my-custom-classname"
       }
     };
